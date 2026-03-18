@@ -58,5 +58,13 @@ The output `model_v3.frag` will be generated, ready for the Antigravity viewer.
 - **Runtime**: Node.js & Three.js
 - **Post-Processing**: Python
 
+## Credits & Acknowledgements
+
+V3_Conv relies on the work of the following communities and contributors:
+
+- **[ThatOpenCompany](https://github.com/ThatOpenCompany)** (formerly IFC.js) — For the high-performance `web-ifc` engine, `@thatopen/components` framework, and the `bim-fragment` specification.
+- **[Three.js Authors](https://threejs.org/)** — For the geometry engine and 3D environment.
+- **[IFC-Lite](https://github.com/louistrue/ifc-lite)** by **Louis True** — For the research and patterns relating to side-loading fragments and binary chunking in Power BI.
+
 ## License
 MIT
