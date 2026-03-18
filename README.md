@@ -65,7 +65,7 @@ V3_Conv relies on the work of the following communities and contributors:
 - **[ThatOpen/web-ifc](https://github.com/ThatOpen/web-ifc)** — For the high-performance building model parsing engine.
 - **[ThatOpen/openbim-components](https://github.com/ThatOpen/openbim-components)** — Forkable framework for 3D BIM components and fragments.
 - **[Three.js](https://github.com/mrdoob/three.js)** — For the geometry engine and 3D environment.
-- **[IFC-Lite](https://github.com/louistrue/ifc-lite)** by **Louis True** — For the research and patterns relating to side-loading fragments and binary chunking in Power BI.
+- **[IFC-Lite](https://github.com/louistrue/ifc-lite)** (Licensed under [MPL-2.0](https://github.com/louistrue/ifc-lite/blob/main/LICENSE)) — By **Louis True**. Research and patterns relating to side-loading fragments and binary chunking in Power BI.
 
 ## License
 MIT
