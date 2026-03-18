@@ -62,8 +62,9 @@ The output `model_v3.frag` will be generated, ready for the Antigravity viewer.
 
 V3_Conv relies on the work of the following communities and contributors:
 
-- **[ThatOpenCompany](https://github.com/ThatOpenCompany)** (formerly IFC.js) — For the high-performance `web-ifc` engine, `@thatopen/components` framework, and the `bim-fragment` specification.
-- **[Three.js Authors](https://threejs.org/)** — For the geometry engine and 3D environment.
+- **[ThatOpen/web-ifc](https://github.com/ThatOpen/web-ifc)** — For the high-performance building model parsing engine.
+- **[ThatOpen/openbim-components](https://github.com/ThatOpen/openbim-components)** — Forkable framework for 3D BIM components and fragments.
+- **[Three.js](https://github.com/mrdoob/three.js)** — For the geometry engine and 3D environment.
 - **[IFC-Lite](https://github.com/louistrue/ifc-lite)** by **Louis True** — For the research and patterns relating to side-loading fragments and binary chunking in Power BI.
 
 ## License
